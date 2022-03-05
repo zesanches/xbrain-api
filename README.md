@@ -23,3 +23,4 @@ Eu não tinha experiência com APIs, com banco de dados, com Java ou SpringBoot.
 Infelizmente devido ao tempo, devido a falta de conhecimento eu consegui moldar apenas aplicações dos treinamentos da Alura e alguns teste do curso de Java básico, pois eu estava ainda entendendo os padrões da linguagem e como utilizá-los, peço perdão pela falta de entrega. Mas agradeço demais a oportunidade que me ajudou a aprender mais um pouco!
 
 ### Vou deixar anexados os arquivos que fiz durante esse período de uma semana caso queiram dar uma olhada😁
+### Ps: Eu consegui fazer uma tabela com o treinamento de SpringBoot da Alura, porém quando tentei fazer a adaptação para o processo seletivo acabei errando em algo e não consegui ter de volta😒
